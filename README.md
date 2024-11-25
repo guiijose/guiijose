@@ -13,7 +13,7 @@ I'm a **Computer Science and Engineering** student at **Instituto Superior Técn
 
 I love working on **personal projects** where I can experiment with new ideas and technologies. Some of my notable work includes:
 - **Explcamisto**: Contributed to a project aimed at providing tutoring for financially disadvantaged teenagers in secondary schools across Portugal. As a member of the IT team, I played a key role in developing the web platform using **Django**.
-- **School Projects**: Explore my repositories to see the personal projects I’ve developed as part of my coursework at university.
+- **Go Game**: A Python implementation of the **Go** board game, simulating gameplay, rules, and strategies. The project supports local two-player games with scoring and a terminal-based interface.
 
 Feel free to browse my repositories to see the work I've done and the projects I'm currently tackling.
 
