@@ -1,12 +1,12 @@
 # Hi, I'm Guilherme José 👋
 
-I'm a **Computer Science and Engineering** student at **Instituto Superior Técnico**, passionate about technology and problem-solving. Currently, I’m exploring the world of **machine learning** and **self-driving cars**, and I'm always looking for new opportunities to apply my skills and collaborate with others.
+I'm a **Computer Science and Engineering** student at **Instituto Superior Técnico** in Lisbon, originally from **Portimão**. I’m passionate about technology and problem-solving. Currently, I’m exploring the world of **machine learning** and **self-driving cars**, and I'm always looking for new opportunities to apply my skills and collaborate with others.
 
 ## 🚀 Technologies & Skills
 
 - **Languages**: Java, Python, C, C++
-- **Machine Learning**: Sklearn, TensorFlow
-- **Tools & Frameworks**: Jupyter Notebooks, Git, Docker, OpenCV, Django
+- **Machine Learning**: Sklearn, TensorFlow, Sklearn
+- **Tools & Frameworks**: Jupyter Notebooks, Git, Django
 - **Areas of Focus**: Machine Learning, Self-Driving Cars, Computer Vision, AI
 
 ## 🔧 Projects & Contributions
