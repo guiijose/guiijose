@@ -19,7 +19,9 @@ Feel free to browse my repositories to see the work I've done and the projects I
 
 ## 🌱 Currently Seeking
 
-I am looking for a **summer internship** in 2025, where I can apply my skills in machine learning and contribute to real-world projects, especially in **machine learning** but I am open to opportunities in other tech realted fields. If you know of any opportunities or would like to collaborate, let's connect!
+I am actively looking for a **summer internship in 2025** where I can apply my skills in **machine learning** to contribute to impactful, real-world projects. While my primary focus is on **machine learning**, I am also open to exploring opportunities in other **technology-related fields**. 
+
+If you know of any opportunities or are interested in collaborating, feel free to connect with me. Let’s create something amazing together!
 
 ## 📫 How to Reach Me
 
